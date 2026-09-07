@@ -1,4 +1,6 @@
-# KROMA
+<p align="center">
+  <a href="https://kroma.tv"><img src="https://github.com/kromatv/.github/blob/main/profile/banner.svg?raw=true" alt="KROMA" width="100%"></a>
+</p>
 
 A self-hosted media stack that plays your files as they are: one Rust server,
 thin clients for the TV, the phone, the desktop and the browser, and modules
